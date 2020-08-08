@@ -1,0 +1,12 @@
+*.class
+DesignPatterns.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+DesignPatterns.iml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+*.class
+.idea/workspace.xml
